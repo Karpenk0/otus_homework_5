@@ -21,9 +21,9 @@ public class Main {
         }
         Java_sort(list);
         bubble_sort(list1);
-        System.out.println(list2);
+      
         inserionSort(list2);
-        System.out.println(list2);
+       
 
 
     }
